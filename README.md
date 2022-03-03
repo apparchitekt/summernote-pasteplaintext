@@ -1,4 +1,4 @@
-# Summernote Paste Plain Text 1.0.0
+# Summernote Paste Plain Text
 Plugin for [Summernote](https://github.com/summernote/summernote/) that removes HTML tags from pasted content.
 
 # Installation
