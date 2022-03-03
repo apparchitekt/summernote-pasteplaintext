@@ -1,6 +1,6 @@
 {
   "name": "summernote-pasteplaintext",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plugin for Summernote WYSIWYG editor (summernote.org) that removes all tags when pasting content into the editor",
   "main": "summernote-pasteplaintest.js",
   "scripts": {
