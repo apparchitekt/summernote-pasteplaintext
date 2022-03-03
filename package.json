@@ -1,0 +1,27 @@
+{
+  "name": "summernote-pasteplaintext",
+  "version": "1.0.0",
+  "description": "Plugin for Summernote WYSIWYG editor (summernote.org) that removes all tags when pasting content into the editor",
+  "main": "summernote-pasteplaintest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apparchitekt/summernote-pasteplaintext.git"
+  },
+  "keywords": [
+    "summernote",
+    "paste",
+    "plaintext",
+    "plain-text",
+    "cleaner",
+    "clean"
+  ],
+  "author": "Nico Wenig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apparchitekt/summernote-pasteplaintext/issues"
+  },
+  "homepage": "https://github.com/apparchitekt/summernote-pasteplaintext#readme"
+}
