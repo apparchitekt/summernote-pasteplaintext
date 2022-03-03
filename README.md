@@ -1,15 +1,15 @@
-# summernote-pasteplaintext
+# Summernote Paste Plain Text 1.0.0
 Plugin for [Summernote](https://github.com/summernote/summernote/) that removes HTML tags from pasted content.
 
 # Installation
-If you don’t use npm you can just insert the JS file after Summernote the old way:
+If you don’t use npm you can just insert the JS file after Summernote:
 
 ```html
 <script src="summernote-pasteplaintext.js"></script>
 ```
 
 # Configuration
-Per default this plugin will remove all HTML tags when you paste content into Summernote, except these tags that are specified in allowTags:
+Per default this plugin will remove all HTML tags when you paste content into Summernote, except those that are specified in allowTags:
 
 ```javascript
 $('textarea.summernote').summernote({
